@@ -27,8 +27,9 @@ pip install matplotlib
 
 <h4>Object Detection</h4>
 <p>Object Detection specifies the location of multiple objects in a image</p>
--Classification
+-Classification</br>
 -Localization
+</br>
 <p>Famous Algorithms</p>
 -SSD-MobileNetv2,SSD-MobileNetv3</br>
 -YOLO v1,v2</br>
