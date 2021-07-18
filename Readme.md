@@ -8,9 +8,8 @@ The main challenge faced by me was getting the config file which I finally found
 <h4>Technologies Used  :</h4>OpenCV 
 </p>
 <h2>Installations</h2>
-<p>
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install foobar
 ```
-</p>
