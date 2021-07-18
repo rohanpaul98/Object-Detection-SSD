@@ -19,12 +19,22 @@ pip install matplotlib
 <h2>BrainStorming</h2>
 <h4>Image Classification/Recognition</h4>
 <p>It is the process of classifying the images to the categories they belong to based on their salient features.</p>
-<p>Deep learning Algorithms for Image Classification:</p>
+ Deep learning Algorithms for Image Classification:
 -AlexNet</br>
 -GoogleNet</br>
 -MobileNet</br>
 -VGGNet</br>
 
+<h4>Object Detection</h4>
+<p>Object Detection specifies the location of multiple objects in a image</p>
+-Classification
+-Localization
+<p>Famous Algorithms</p>
+-SSD-MobileNetv2,SSD-MobileNetv3</br>
+-YOLO v1,v2</br>
+
+<p>Famous Dataset</p>
+- COCO-> 80 classes
 <h2>Contributions:</h2>
 <p>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
