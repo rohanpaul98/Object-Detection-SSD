@@ -19,9 +19,8 @@ pip install matplotlib
 <h2>BrainStorming</h2>
 <h4>Image Classification/Recognition</h4>
 <p>It is the process of classifying the images to the categories they belong to based on their salient features.</p>
-<p>Deep learning Algorithms for Image Classification:
+<p>Deep learning Algorithms for Image Classification:</p>
 *Alexnet
-</p>
 
 
 <h2>Contributions:</h2>
