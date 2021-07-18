@@ -36,6 +36,12 @@ pip install matplotlib
 
 <p>Famous Dataset</p>
 - COCO-> 80 classes
+
+<h2>Run network in OpenCV</h2>
+<p>OpenCV needs an extra configuration file to import object detection models from TensorFlow. It's based on a text version of the same serialized graph in protocol buffers format (protobuf).</p>
+Use existing config file for your model:
+MobileNet-SSD v3 (Version:2020_01_14)[Config](https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7)
+
 <h2>Contributions:</h2>
 <p>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
