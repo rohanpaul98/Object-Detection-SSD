@@ -2,7 +2,7 @@
 <h2>Introduction</h2>
 <p> This projects aims at object detection with a very high accuracy using pre-trained light weight SSD-MobileNet V3 architecture. 
 My project describes how object detection models can be trined very easily and accurately using the TEnsorFlow API.
-Here we have also used OpenCV in order to draw the rectangles around the objects.
+Here we have also used OpenCV in order to draw the rectangles around the objects and also to load the pre-trained frozen TensorFlow models.
 <h4>Challenges  :</h4>
 The main challenge faced by me was getting the config file which I finally found at https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API which is the wiki page of TensorFlow API . 
 <h4>Technologies Used  :</h4>OpenCV 
@@ -16,6 +16,13 @@ pip install opencv-python
 ```bash
 pip install matplotlib
 ```
+<h2>BrainStorming</h2>
+<h4>Image Classification/Recognition</h4>
+<p>It is the process of classifying the images to the categories they belong to based on their salient features.</p>
+<p>Deep learning Algorithms for Image Classification:
+*Alexnet
+</p>
+
 
 <h2>Contributions:</h2>
 <p>
