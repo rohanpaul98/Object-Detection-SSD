@@ -41,6 +41,7 @@ pip install matplotlib
 <p>OpenCV needs an extra configuration file to import object detection models from TensorFlow. It's based on a text version of the same serialized graph in protocol buffers format (protobuf).</p>
 Use existing config file for your model:
 MobileNet-SSD v3 (Version:2020_01_14) 
+
 [Config](https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7)
 
 <h2>Contributions:</h2>
