@@ -9,7 +9,7 @@ The main challenge faced by me was getting the config file which I finally found
 </p>
 <h2>Installations</h2>
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Opencv-python.
 ```bash
-pip install foobar
+pip install opencv-python
 ```
